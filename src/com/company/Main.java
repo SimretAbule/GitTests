@@ -5,7 +5,6 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         // I will write something
-        // write your code here
-        // I will write something
+
     }
 }
